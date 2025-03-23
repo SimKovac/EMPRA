@@ -5,6 +5,6 @@ Hausarbeit im EMPRA "Formale Modellierung von Theorien" von Simeon Kovac hochgel
 Die Hausarbeit als _.pdf_  
 **Im Appendix:**  
 Die Variablen-Tabelle als _.pdf_  
-Die Construct-Source-Tabelle _.pdf_  
+Die Construct-Source-Tabelle als _.pdf_  
 Das formale Modell als _R-Datei_  
 Unterordner More Material mit VAST-Displays
