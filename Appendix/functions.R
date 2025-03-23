@@ -1,3 +1,6 @@
+library(ggplot2)
+library(truncnorm)
+
 # Set seed for reproducibility
 set.seed(40)
 
@@ -293,9 +296,9 @@ highAQ_group_results_high <- runSimulation(
   n_trials = 100
 )
 
-print(low_group_results_high$aggregate_results)
-print(neutral_group_results_high$aggregate_results)
-print(high_group_results_high$aggregate_results)
+print(lowAQ_group_results_high$aggregate_results)
+print(neutralAQ_group_results_high$aggregate_results)
+print(highAQ_group_results_high$aggregate_results)
 
 
 
