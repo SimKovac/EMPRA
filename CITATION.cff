@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: EMPRA-Hausarbeit_Simeon-Kovac
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Simeon
+    family-names: Kovac
+    email: simeon.kovac@campus.lmu.de
+    orcid: 'https://orcid.org/0009-0005-6694-2791'
+    affiliation: LMU Munich
+repository-code: 'https://github.com/SimKovac/EMPRA'
+abstract: >-
+  Paper about the effect of social influence on wisdom of
+  the crowds. 
+
+  Particularly Advice Quality
+keywords:
+  - Wisdom of Crowds
+  - Social Influence
+  - Advice Quality
+  - Estimating
+commit: First Publish in Repo
+version: 1.0.0
+date-released: '2025-03-23'
