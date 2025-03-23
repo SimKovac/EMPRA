@@ -7,4 +7,4 @@ Die Hausarbeit als _.pdf_
 Die Variablen-Tabelle als _.pdf_  
 Die Construct-Source-Tabelle als _.pdf_  
 Das formale Modell als _R-Datei_  
-Unterordner More Material mit VAST-Displays
+Unterordner "More Material" mit VAST-Displays
