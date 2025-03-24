@@ -1,4 +1,4 @@
-Erklärung zur Nutzung von generativer KI und KI-gestützten Technologien im Schreibprozess
+**Erklärung zur Nutzung von generativer KI und KI-gestützten Technologien im Schreibprozess**
 
 Bei der Erstellung dieser Arbeit habe ich folgende/s Tool/s verwendet: ChatGPT, Deepseek.   
 Art der Nutzung:  
