@@ -4,7 +4,6 @@ Bei der Erstellung dieser Arbeit habe ich folgende/s Tool/s verwendet: ChatGPT, 
 Art der Nutzung:  
   
 Verbesserung der sprachlichen Qualität und Lesbarkeit  
-Übersetzung von Zitaten oder Textabschnitten, die als solche gekennzeichnet sind (etwa: „Translated with DeepL“)  
 Zusammenfassung von Information  
 Erstellen bzw. verbessern von Programmiercode (bspw. R- oder Python-Code)  
 Erstellen von Begriffsdefinitionen  
